@@ -26,8 +26,8 @@ Para usar la aplicación, sigue estos pasos:
 1. **Ejecución del proyecto**:
    - Clonar este repositorio.
    - Configurar la variables de entorno .
-     ![Intellij](https://imgur.com/a/Lajnpg5)
-     ![Intellij](https://imgur.com/a/Lajnpg5)
+     ![Intellij](https://github.com/Arias-unlam/api-clima/blob/main/docs/img.png)
+     ![Intellij](https://github.com/Arias-unlam/api-clima/blob/main/docs/img_1.png)
    - Ejecuta el comando de maven: mvn clean install.
    - Ejecuta el proyecto, fijate de que esten bien puestas las variables de entorno
    - En la carpeta docs/postman-collection puedes importar la coleccion para realizar pruebas
