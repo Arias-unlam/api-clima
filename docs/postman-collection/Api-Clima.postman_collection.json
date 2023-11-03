@@ -1,0 +1,38 @@
+{
+	"info": {
+		"_postman_id": "034af4b5-652e-45bd-88ab-930f66765218",
+		"name": "Api-Clima",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "climabyciudad",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "audit-result-list",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/api-clima/audit-result-list",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api-clima",
+						"audit-result-list"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
